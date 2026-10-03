@@ -2,6 +2,7 @@
 
 title = Calculatrice Pro
 package.name = calculatricepro
+version = 1.0
 package.domain = org.jeremie
 
 source.dir = .
